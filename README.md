@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ronedgecomb
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on code
-- 📫 How to reach me the web
+Hello, I’m Ron Edgecomb. I am an enthusiastic and creative motion and graphic designer. Whether it's through graphic design, animation, or video production, I am constantly pushing the boundaries of creativity to deliver outstanding results.
